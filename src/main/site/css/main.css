@@ -1,3 +1,13 @@
 input[type="number"] {
   width: 3em;
 }
+
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#suggestions {
+    line-height: 2;
+}
